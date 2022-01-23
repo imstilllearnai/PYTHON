@@ -1,3 +1,3 @@
 # PYTHON
 
-(https://github.com/imstilllearnai/Python/blob/output/github-contribution-grid-snake.gif)
+https://github.com/imstilllearnai/Python/blob/output/github-contribution-grid-snake.gif
